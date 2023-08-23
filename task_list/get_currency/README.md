@@ -1,6 +1,6 @@
-[# Get currency
+# Get currency
 
-# Task
+## Task
 
 Write to the sqlite3 database using raw queries all available data in the `MONOBANK_API_URL`.
 Currency codes should be presented in the `ISO` format.
