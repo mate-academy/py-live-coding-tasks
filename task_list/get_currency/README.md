@@ -12,4 +12,3 @@ You can follow the links `MONOBANK_API_URL`, and `WIKI_ISO_GUIDE_URL` in the bro
 MONOBANK_API_URL = "https://api.monobank.ua/bank/currency"
 WIKI_ISO_GUIDE_URL = "https://en.wikipedia.org/wiki/ISO_4217"
 ```
-]()
