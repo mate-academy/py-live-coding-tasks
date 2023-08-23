@@ -1,4 +1,5 @@
-# Python Boilerplate For GitHub Tasks
+# Python Live Conding Task
 
-**Please note:** read [the guideline](https://github.com/mate-academy/py-task-guideline/blob/main/README.md)
-before starting.
+These tasks are for student live coding.
+
+* [Get currency](task_list/get_currency/README.md)
